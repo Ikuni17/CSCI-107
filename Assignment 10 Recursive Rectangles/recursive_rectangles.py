@@ -6,7 +6,7 @@
 # This is a program to recursively draw    |
 # rectangles and distinguish them by color |
 # -----------------------------------------+
-
+# Test
 import turtle
 
 # function that is called to draw each rectangle
